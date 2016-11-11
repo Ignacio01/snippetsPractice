@@ -9,3 +9,5 @@ This repository will store small snippets of java code from different problems.
   2) RemoveDuplicate.java: This code removes all the duplicates values in an array. The methods are created as generics, to different types of Data can use these methods.
       - The first method removeDuplicates(T[] elements), creates a HashSet to store the values not repeated in the array pased to the method removeDuplicates(). Using a Big O notation of O(n)
       - The second method removeDuplicatesSlow(T[] elements), replace the duplicate values in the array passed to the method by null. The Big O notation of this code is O(n^2).
+      
+   3) FractalTree.java: This file creates by using a recursive method a Fractal Tree. We use AWK to draw the fractal tree.
